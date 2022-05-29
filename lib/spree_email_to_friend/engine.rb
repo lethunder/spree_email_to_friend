@@ -1,4 +1,5 @@
 require 'recaptcha/rails'
+require_relative '../../app/models/spree/captcha_configuration'
 
 module Spree::Captcha
 end
